@@ -16,7 +16,7 @@ Follow the steps below to get the API up and running on your local machine:
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/mishra2019/Online-Store-REST-API.git
+   $ git clone https://github.com/Ritik0602/FictionalOnlineStoreAPI.git
 
    ```
 
