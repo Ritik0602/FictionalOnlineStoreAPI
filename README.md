@@ -27,8 +27,8 @@ Follow the steps below to get the API up and running on your local machine:
 3.Set up the environment variables:
 
 Create a `.env` file in the project root directory with the following content:
-MONGODB_URI=<your-mongodb-connection-string>
-SECRET_KEY=<your-jwt-secret-key>
+MONGODB_URI=`<your-mongodb-connection-string>`
+SECRET_KEY=`<your-jwt-secret-key>`
 Make sure to replace `<your-mongodb-connection-string>` with the actual connection string for your MongoDB database and `<your-jwt-secret-key>` with a secret key of your choice for JWT token encryption.
 
 4. Start the server:
